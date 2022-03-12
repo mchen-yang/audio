@@ -1,6 +1,6 @@
 #include "ch455.h"
 
-
+unsigned char id£»
 unsigned char key_id = 0;
  
 void CH455_Init(void)
